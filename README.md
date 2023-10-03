@@ -1,8 +1,8 @@
-# Mobs
-<b>Mob Plugin For PocketMine-MP Version 5 (by tgwaste)<b>
+# MobSpawn
+<b>Mob Plugin For PocketMine-MP Version 5 (by NurAzliYT)<b>
 <br />
 <br />
-<img src="https://github.com/tgwaste/Mobs/blob/main/icon.png" height=200 width=150>
+<img src="https://github.com/NurAzliYT/MobSpawn/blob/main/icon.png" height=200 width=150>
 <br />
 ## About
 This is a very generic plugin that will add Mobs to your PM5 worlds.
@@ -17,4 +17,4 @@ This is a very generic plugin that will add Mobs to your PM5 worlds.
 * You can do /listmobs to list all spawned mobs
 * You can do /summon Mob [quantity] to summon mobs to your location
 <br />
-<a href="https://poggit.pmmp.io/p/Mobs"><img src="https://poggit.pmmp.io/shield.state/Mobs"></a>
+<a href="https://poggit.pmmp.io/p/MobSpawn"><img src="https://poggit.pmmp.io/shield.state/MobSpawn"></a>
